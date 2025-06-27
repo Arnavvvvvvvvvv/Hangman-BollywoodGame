@@ -1,6 +1,5 @@
 # 🎬 Hangman Game: Bollywood Edition
 
-🌟 **Gear up, Bollywood lovers!** 🌟  
 
 ## 🎥 **Lights. Camera. Guess!**
 Can you guess your favorite Bollywood movie names before you run out of chances? Play this fun, interactive twist on the classic Hangman game — now with a full dose of filmy drama!
